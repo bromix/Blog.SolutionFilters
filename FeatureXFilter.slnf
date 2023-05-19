@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "All.sln",
+    "projects": [
+      "ProjectA\\ProjectA.csproj",
+      "ProjectB\\ProjectB.csproj",
+      "ProjectC\\ProjectC.csproj",
+	  "ProjectD\\ProjectD.csproj"
+    ]
+  }
+}
